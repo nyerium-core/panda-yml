@@ -3,7 +3,7 @@ meta:
   # Full project name, this must be the registered name with panda-bot platform (can not change!)
   name: nyerium
   # Link to icon of project preferrably around 100x100px PNG format
-  icon: https://i.imgur.com/iIyZiUo.png
+  icon: https://www.nyerium.org/images/logo.png
   # Project website
   website: https://www.nyerium.org/
   # Discord invite
