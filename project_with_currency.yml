@@ -1,7 +1,7 @@
 # This section should be mostly links to the various project resources
 meta:
   # Full project name, this must be the registered name with panda-bot platform (can not change!)
-  name: Nyerium
+  name: nyerium
   # Link to icon of project preferrably around 100x100px PNG format
   icon: https://imgur.com/iIyZiUo
   # Project website
