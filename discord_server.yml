@@ -2,7 +2,7 @@
 panda-bot:
   discord:
     ### Do not set these if private server, otherwise will be used for searching
-    public_invite: https://discord.gg/Hs57Jg4
+    public_invite: https://discord.gg/btcEauv
     # Select server type, valid options: project, community, trading. Contact us to add new categories
     type: project
     # Set if server allows rains for promotion
