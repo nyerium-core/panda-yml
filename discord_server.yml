@@ -21,7 +21,6 @@ panda-bot:
     # List of the channels for panda-bot to respond to, by default will respond to all
     allowed_channels:
       - 752855339698880534
-      - 752653747208847442
       - 548283107665641493
       - 452159438909079592
       - 472879927927242782
