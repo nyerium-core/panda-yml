@@ -20,8 +20,8 @@ panda-bot:
       - btc
     # List of the channels for panda-bot to respond to, by default will respond to all
     allowed_channels:
-      - 472509946664189992
-      - 548283107665641493
+      - 752855339698880534
+      - 752653747208847442
     # Have panda-bot post blockchain stats and currency pricing to channel at 15 minute intervals
     ticker_channel: 753004657189847121
     # Allow other bots to use panda-bot?
